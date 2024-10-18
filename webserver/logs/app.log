@@ -1,0 +1,77 @@
+2024-10-18 11:25:31 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:26:07 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:26:07 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:27:33 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:28:29 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:29:37 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:29:37 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:34:53 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:34:53 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:34:53 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:34:58 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:35:52 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:36:03 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:36:20 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:37:38 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:37:43 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:37:43 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:39:20 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:39:22 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:39:22 [main] INFO  org.example.server.web.Webserver - New client connected
+2024-10-18 11:39:22 [pool-2-thread-1] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 11:39:22 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 11:39:22 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: GET /api/v1/athletes HTTP/1.1
+2024-10-18 11:42:55 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 11:42:57 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49622
+2024-10-18 11:42:57 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49623
+2024-10-18 11:42:57 [pool-2-thread-1] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 11:42:57 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 11:42:57 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: GET /api/v1/athletes HTTP/1.1
+2024-10-18 12:09:26 [main] INFO  org.example.server.config.ConfigLoader - Configuration loaded successfully from config.json
+2024-10-18 12:09:26 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 12:09:30 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49656
+2024-10-18 12:09:30 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49657
+2024-10-18 12:09:30 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 12:09:30 [pool-2-thread-1] INFO  org.example.server.client.ClientHandler - ----------------->
+2024-10-18 12:09:30 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: GET /api/v1/athletes HTTP/1.1
+2024-10-18 12:10:37 [main] INFO  org.example.server.config.ConfigLoader - Configuration loaded successfully from config.json
+2024-10-18 12:10:37 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 12:10:41 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49662
+2024-10-18 12:10:41 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49663
+2024-10-18 12:10:41 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: GET /api/v1/athletes HTTP/1.1
+2024-10-18 12:10:41 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - HTTP Method Name : GET
+2024-10-18 12:20:47 [main] INFO  org.example.server.config.ConfigLoader - Configuration loaded successfully from config.json
+2024-10-18 12:20:47 [main] INFO  org.example.server.web.Webserver - Server is listening on port 8080
+2024-10-18 12:20:52 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49678
+2024-10-18 12:20:52 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49679
+2024-10-18 12:20:52 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: GET /api/v1/athletes HTTP/1.1
+2024-10-18 12:20:55 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49681
+2024-10-18 12:20:55 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49682
+2024-10-18 12:20:55 [pool-2-thread-4] INFO  org.example.server.client.ClientHandler - Request: POST /api/v1/athletes HTTP/1.1
+2024-10-18 12:20:58 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49684
+2024-10-18 12:20:58 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49685
+2024-10-18 12:20:58 [pool-2-thread-6] INFO  org.example.server.client.ClientHandler - Request: PUT /api/v1/athletes HTTP/1.1
+2024-10-18 12:21:01 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49687
+2024-10-18 12:21:01 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49688
+2024-10-18 12:21:01 [pool-2-thread-8] INFO  org.example.server.client.ClientHandler - Request: DELETE /api/v1/athletes HTTP/1.1
+2024-10-18 12:21:04 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49690
+2024-10-18 12:21:04 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49691
+2024-10-18 12:21:04 [pool-2-thread-10] INFO  org.example.server.client.ClientHandler - Request: HEAD /api/v1/athletes HTTP/1.1
+2024-10-18 12:21:40 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49693
+2024-10-18 12:21:40 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49694
+2024-10-18 12:21:40 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: HEAD /api/v1/athletes HTTP/1.1
+2024-10-18 12:21:41 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49696
+2024-10-18 12:21:41 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49697
+2024-10-18 12:21:41 [pool-2-thread-4] INFO  org.example.server.client.ClientHandler - Request: HEAD /api/v1/athletes HTTP/1.1
+2024-10-18 12:22:17 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49699
+2024-10-18 12:22:17 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49700
+2024-10-18 12:22:17 [pool-2-thread-6] INFO  org.example.server.client.ClientHandler - Request: OPTIONS /api/v1/athletes HTTP/1.1
+2024-10-18 12:22:18 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49702
+2024-10-18 12:22:18 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49703
+2024-10-18 12:22:18 [pool-2-thread-8] INFO  org.example.server.client.ClientHandler - Request: OPTIONS /api/v1/athletes HTTP/1.1
+2024-10-18 12:22:23 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49705
+2024-10-18 12:22:23 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49706
+2024-10-18 12:22:23 [pool-2-thread-10] INFO  org.example.server.client.ClientHandler - Request: PATCH /api/v1/athletes HTTP/1.1
+2024-10-18 12:22:23 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49708
+2024-10-18 12:22:23 [main] INFO  org.example.server.web.Webserver - New client connected from /[0:0:0:0:0:0:0:1]:49709
+2024-10-18 12:22:23 [pool-2-thread-2] INFO  org.example.server.client.ClientHandler - Request: PATCH /api/v1/athletes HTTP/1.1
